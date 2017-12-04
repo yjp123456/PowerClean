@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PowerClean</string>
+    <string name="size_content">Size: %1$s</string>
+    <string name="apk_detail_path">Path: %1$s</string>
+    <string name="bt_dialog_cancel">Cancel</string>
+    <string name="bt_dialog_clean">Clean</string>
+</resources>
