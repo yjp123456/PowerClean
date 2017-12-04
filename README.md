@@ -1,0 +1,2 @@
+# PowerClean
+用kotlin实现的android上清楚垃圾数据小程序
